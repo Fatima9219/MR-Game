@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5764076971185664278
+  m_GuidHigh: 1891151520605421461
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4670037713255138764
+      m_GuidHigh: 15709760275075723436
+    m_SerializedTextureGuid:
+      m_GuidLow: 14237087137597253776
+      m_GuidHigh: 1649393429578294712
+    m_Size: {x: 0.1, y: 0.097666666}
+    m_SpecifySize: 1
+    m_Name: 216048.fig.005b
+    m_Texture: {fileID: 2800000, guid: 00c468904b52c594b8a5e0d895d2e316, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5556585560506940270
+      m_GuidHigh: 9337997559283307910
+    m_SerializedTextureGuid:
+      m_GuidLow: 10908994192676267779
+      m_GuidHigh: 16172396209291986553
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: chrome-qr-beispiel
+    m_Texture: {fileID: 2800000, guid: 7f44a703886b97647906b9d5aae46fe0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4786302342603685540
+      m_GuidHigh: 12746569314397205412
+    m_SerializedTextureGuid:
+      m_GuidLow: 10764945819206825699
+      m_GuidHigh: 476082156619557960
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ederdoski_realityaugmentedvuforia
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4936165985754867809
+      m_GuidHigh: 11577661597109419674
+    m_SerializedTextureGuid:
+      m_GuidLow: 2005449384585987871
+      m_GuidHigh: 13935288809999818378
+    m_Size: {x: 0.1, y: 0.097753905}
+    m_SpecifySize: 1
+    m_Name: image003_1
+    m_Texture: {fileID: 2800000, guid: 0746071fc9971bd48ade8322571764c1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4966427213465828596
+      m_GuidHigh: 907925237528454787
+    m_SerializedTextureGuid:
+      m_GuidLow: 17484203138606551920
+      m_GuidHigh: 394239205216669033
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: qr-code-ikonenvektor-lokalisiert-auf-wei-em-hintergrund-digital-hinweiszeichen-152600361
+    m_Texture: {fileID: 2800000, guid: 8969d3705e1ef2a469cd78e7779e7805, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5498965821366077318
+      m_GuidHigh: 6373191103093604263
+    m_SerializedTextureGuid:
+      m_GuidLow: 5639696503733457260
+      m_GuidHigh: 14225405688214409626
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: qrcode-mappen24-drucken
+    m_Texture: {fileID: 2800000, guid: fa0b916c3a164e449a51d79f1acb6ac5, type: 3}

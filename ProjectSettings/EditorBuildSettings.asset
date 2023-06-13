@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
+    guid: 42ba29dedbd2bb8458b2088a1f54f0c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 466f455a10306814fab9b408a7840738
+  - enabled: 0
+    path: Assets/Scenes/Screen 1.unity
+    guid: 69948ebdfcc41d742b03d0a7b37c3c9f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Guide.unity
+    guid: 302c90f8ec8e2704d9a98d596b579d30
+  - enabled: 0
+    path: Assets/Image Target.unity
+    guid: 676ba7539ec80714094316ea2d229a9c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Guide 1.unity
+    guid: ab88f0c113a5e4b42a357afa713c5572
+  - enabled: 1
+    path: Assets/Assets/MRForklift.unity
+    guid: 1f8f02b7de8157d4885a0202225684c3
+  - enabled: 0
+    path: Assets/Scenes/Fatima.unity
+    guid: 37c8a97a750c35746bbf56894d8b6f97
+  - enabled: 1
+    path: Assets/Final.unity
+    guid: 267db52d3fd9a084fbb51fbe968ec7cd
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: fdeffa42dd3c2184c98084431fb74b86,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 8c09a64523f2f604ca44931a4f992cf2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f7e65279a2364fc41aacbd4dfa96fbd4,
+      type: 2}
